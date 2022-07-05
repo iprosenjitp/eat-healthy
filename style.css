@@ -41,8 +41,18 @@ h1 {
     width: 100%;
 }
 
+.first-section {
+    align-items: center;
+}
+
 .second-section {
     background-image: url(images/shapes/7.png);
+    align-items: center;
+}
+
+.second-section-img {
+    width: 100%;
+    height: auto;
 }
 
 .third-section {
